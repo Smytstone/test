@@ -1,3 +1,4 @@
+theme: minima
 # Hello, world!
 
 I study in Netology
